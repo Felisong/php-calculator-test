@@ -27,3 +27,11 @@ $GLOBALS['variableName'] can access it directly as well.
 - echo vs print
   echo is slightly faster, has no return value and can take multiple parameters.
   print has a return value of 1, and can only take 1 parameter.
+
+## Python Notes for Myself
+
+- reads a lot more in english (instead of && they use 'and')
+- functions, and conditions end with ':'
+- variable declarations seem easier than JS
+- I like the dictionary that can be used in python
+- python does not use ;
